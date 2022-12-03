@@ -30,7 +30,7 @@ First, you need to run ffcalculateg.py.
 Figure1: 
 ffrepresentativetrace.py
 
-Figure2, S2-S4: 
+Figure 2, S2-S4: 
 ffaveragetrace.py, ffstdp.py, ffstdptwod.py, ffaveragetracemanipulated.py
 
 Figure S1: 
@@ -43,7 +43,7 @@ swwaveform.py, swgshape.py, swphaseplane.py, swfiringrate.py, swudist.py, swupdo
 Figure 4: 
 swstdp.py, swstdp_smallw.py, swstdpstat.py, swstdpstatplot.py 
 
-Figure5, S7: 
+Figure 5, S7: 
 swtaskup.py, swtaskup2.py, swtaskup3.py, swtaskdown.py, swtaskwaveformupdown.py, swtaskplotweight.py, swtaskplotreactivation.py, swtaskplotdown.py
 
 ## License
