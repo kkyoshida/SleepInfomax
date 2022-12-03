@@ -24,7 +24,7 @@ The basic descriptions of single-neuron and slow-wave models are in feedforwardm
 
 More detailed correspondance between codes and figures in the paper is as follows: 
 
-### Single-neuron model: 
+### Single-neuron model
 First, you need to run ffcalculateg.py. 
 
 Figure 1: 
