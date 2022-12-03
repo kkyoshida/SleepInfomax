@@ -27,7 +27,7 @@ More detailed correspondance between codes and figures in the paper is as follow
 ### Single-neuron model: 
 First, you need to run ffcalculateg.py. 
 
-Figure1: 
+Figure 1: 
 ffrepresentativetrace.py
 
 Figure 2, S2-S4: 
