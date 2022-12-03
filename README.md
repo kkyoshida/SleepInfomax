@@ -18,7 +18,7 @@ python 3.6.13, numpy 1.19.2, scipy 1.5.2, matplotlib 3.3.2
 
 
 ## Usage
-For obtaining all figures in the paper, please run_code_all.py. Note that it takes long time to run all codes. 
+For obtaining all figures in the paper, run run_code_all.py. Note that it takes long time to run all codes. 
 
 The basic descriptions of single-neuron and slow-wave models are in feedforwardmodel.py and slowwavemodel.py, respectively. 
 
