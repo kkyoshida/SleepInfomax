@@ -3,7 +3,7 @@
 ## Overview
 These codes are accompanying the manuscript: 
 
-Kensuke Yoshida and Taro Toyoizumi, "Information maximization explains state-dependent synaptic plasticity and memory reorganization during non-rapid eye movement sleep", PNAS Nexus, in press. 
+Kensuke Yoshida and Taro Toyoizumi, "Information maximization explains state-dependent synaptic plasticity and memory reorganization during non-rapid eye movement sleep", PNAS Nexus, 2022. https://doi.org/10.1093/pnasnexus/pgac286 
 
 ## Requirements
 Simulations for the paper above were conducted in the following setup: 
